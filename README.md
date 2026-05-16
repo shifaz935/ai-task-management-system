@@ -285,18 +285,6 @@ OPENROUTER_API_KEY = "YOUR_API_KEY"
 * Real-time updates
 
 
-# 🎥 Demo Video
-
-The demo video includes:
-
-* User login
-* Role-based dashboards
-* Project creation
-* Task management
-* Real-time task updates
-* Analytics charts
-* AI chatbot interaction
-* PDF download
 
 
 
